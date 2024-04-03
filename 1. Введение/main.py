@@ -1,0 +1,5 @@
+print('Программа для вычисления параметров прямоугольника')
+width = int(input('Введите ширину: '))
+height = int(input('Введите длину: '))
+print('Площадь:', width * height)
+print('Периметр:', (width + height) * 2)
